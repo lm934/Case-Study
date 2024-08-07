@@ -1,5 +1,6 @@
 This project aims to analyze and predict graduate admission chances for students applying to top colleges abroad. The analysis focuses on understanding the important factors in graduate admissions and how these factors interrelate. This tool estimates the chances of admission from an Indian perspective.
-Objective
+
+**Objective**
 
 The objective of this analysis is to:
 
@@ -7,13 +8,13 @@ The objective of this analysis is to:
     Understand the interrelationship among these factors.
     Predict one's chances of admission based on the identified variables.
 
-Features
+**Features**
 
     Probability Estimation: Estimates the chances of admission to Ivy League colleges based on various factors.
     Data Analysis: Provides insights into the key factors influencing admissions.
     Predictive Modeling: Uses machine learning algorithms to predict admission probabilities.
 
-Dataset
+**Dataset**
 
 The dataset includes the following columns:
 
@@ -26,7 +27,7 @@ The dataset includes the following columns:
     Research Experience: Whether the applicant has research experience (1: Yes, 0: No).
     Chance of Admit: Probability of admission (0 to 1).
 
-Methodology
+**Methodology**
 
     Data Cleaning: Handling missing values and outliers.
     Exploratory Data Analysis (EDA): Visualizing the relationships between different variables.
@@ -34,7 +35,7 @@ Methodology
     Model Building: Training various machine learning models to predict admission chances.
     Model Evaluation: Evaluating the performance of the models using metrics like accuracy, precision, recall, and F1-score.
 
-Results
+**Results**
 
 The analysis identified the following factors as the most significant in predicting graduate admissions:
 
@@ -47,7 +48,7 @@ The analysis identified the following factors as the most significant in predict
     Research Experience
 
 The predictive model achieved an accuracy of X% (replace X with your result).
-Usage
+**Usage**
 
 To use this project, follow these steps:
 
@@ -57,6 +58,6 @@ To use this project, follow these steps:
 
 git clone https://github.com/lm934/Case-Study-Graduate-Admission-Predictor.git
 
-Conclusion
+**Conclusion**
 
 This project provides a comprehensive analysis of the factors influencing graduate admissions and offers a tool to predict admission probabilities. It can be further enhanced by incorporating more features and data.
